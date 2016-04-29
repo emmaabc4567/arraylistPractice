@@ -65,8 +65,7 @@ public class arraylistPractice
 			System.out.println();
 			System.out.println("The lowest healthy temperature is " + thermometer.get(0) + "° F");
 			System.out.println("The highest healthy temperature is " + thermometer.get(thermometer.size()-1) + "° F");
-
-
+			//test
 		}
 
 	}
